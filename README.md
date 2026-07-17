@@ -39,30 +39,41 @@ A context-aware assistant (powered by Google Gemini) that knows what you're read
 <div align = "center"> <img src="Pictures/AI money coach answer (LIB).png" width="250" alt="AI money coach in the Library" /> <img src="Pictures/Account.png" width="250" alt="Account page" /> </div>
 
 Tech stack
-Area	Technology
-Language & UI	Swift · SwiftUI (iOS 26)
-Persistence	SwiftData (local-only, no cloud)
-Design	Liquid Glass (.glassEffect), custom green pattern background
-AI	Google Gemini API (AI Money Coach)
-Media	AVFoundation (video splash screen)
-Localization	Global tr() helper + full RTL, English ⇄ العربية
+| Area | Technology |
+|---|---|
+| Language & UI | Swift · SwiftUI (iOS 26) |
+| Persistence | SwiftData (local-only, no cloud) |
+| Design | Liquid Glass (.glassEffect), custom green pattern background |
+| AI | Google Gemini API (AI Money Coach) |
+| Media | AVFoundation (video splash screen) |
+| Localization | Global tr() helper + full RTL, English ⇄ العربية |
+
 FinSim is a native app with no backend you host — data lives on the device, and the only external call is to Gemini for the coach.
 
 Getting started
 Requirements: Xcode 26+, iOS 26 simulator or device.
 
+```terminal
 git clone <your-repo-url>
 cd FinSim
+```
+
 1. Add your secrets. The Gemini API key is intentionally kept out of git. Copy the template and fill in your key:
 
+```terminal
 cp FinSim/Services/Secrets.swift.example FinSim/Services/Secrets.swift
 # edit FinSim/Services/Secrets.swift and add your Gemini API key
+```
+
 FinSim/Services/Secrets.swift is gitignored and never committed.
 
 2. Build and run:
 
+```terminal
 open FinSim.xcodeproj
 # select an iPhone simulator and press ⌘R
+```
+
 Or from the command line:
 
 ```xcode
