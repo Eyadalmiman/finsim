@@ -16,7 +16,7 @@ Features
 🏦 The Banking License — train against real fraud
 A simulated banking app that throws real-world financial threats at you. Face an OTP phishing trap, a delivery-fee SMS scam, and more — make the wrong call and you "lose" virtual funds, then get an instant explanation of the trick. Scoring is deliberately unforgiving (25% penalty per mistake) so the lesson sticks.
 
-{ Three screenshots side by side: simulated bank dashboard (VISA card + balance) · OTP phishing trap (Bank_Alert notification + Enter OTP / Report scam) · delivery-fee SMS scam (SPL-Aramex text message) } ![Bank Dashboard](Pictures/Screenshot 2026-07-17 at 8.02.26 pm.png)
+{ Three screenshots side by side: simulated bank dashboard (VISA card + balance) · OTP phishing trap (Bank_Alert notification + Enter OTP / Report scam) · delivery-fee SMS scam (SPL-Aramex text message) } <img src="Pictures/Screenshot 2026-07-17 at 8.02.26 pm.png" width="250" alt="Bank Dashboard" />
 
 📈 The Investment game — a living market
 Buy and sell assets across five risk tiers with cost-basis tracking, bulk buys, a 5% broker fee, offline earnings, and goals. Prices drift with a simulated market so you learn to buy dips and sell surges.
