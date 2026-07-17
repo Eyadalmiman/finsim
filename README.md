@@ -4,7 +4,7 @@ A native iOS financial-literacy app that teaches you to bank, invest, and spot f
 
 Built with SwiftUI · Deep-green Liquid Glass design · Full Arabic RTL localization · Saudi-oriented (SAR · Zakat · Vision 2030)
 
-<img src="Pictures/Home ENG.png" width="250" alt="Home screen" />
+<div align = "center"> <img src="Pictures/Home ENG.png" width="250" alt="Home screen" /> </div>
 
 The problem
 Traditional financial awareness relies on warnings people scroll past — and it fails. In our testing, 75% of users fell for an OTP phishing trap despite years of exposure to "never share your code" messages. People don't learn financial safety by reading about it; they learn by doing it. But there's no safe place to make those mistakes before real money is on the line.
@@ -16,7 +16,7 @@ Features
 🏦 The Banking License — train against real fraud
 A simulated banking app that throws real-world financial threats at you. Face an OTP phishing trap, a delivery-fee SMS scam, and more — make the wrong call and you "lose" virtual funds, then get an instant explanation of the trick. Scoring is deliberately unforgiving (25% penalty per mistake) so the lesson sticks.
 
-<img src="Pictures/Bank Dashboard (BL).png" width="250" alt="Bank Dashboard" /> <img src="Pictures/OTP Phishing scam (BL).png" width="250" alt="OTP Phishing trap" /> <img src="Pictures/Safari customs Payment scam (BL).png" width="250" alt="SMS Scam" />
+<div align = "center"> <img src="Pictures/Bank Dashboard (BL).png" width="250" alt="Bank Dashboard" /> <img src="Pictures/OTP Phishing scam (BL).png" width="250" alt="OTP Phishing trap" /> <img src="Pictures/Safari customs Payment scam (BL).png" width="250" alt="SMS Scam" /> </div>
 
 📈 The Investment game — a living market
 Buy and sell assets across five risk tiers with cost-basis tracking, bulk buys, a 5% broker fee, offline earnings, and goals. Prices drift with a simulated market so you learn to buy dips and sell surges.
