@@ -54,7 +54,7 @@ Getting started
 Requirements: Xcode 26+, iOS 26 simulator or device.
 
 ```terminal
-git clone <your-repo-url>
+git clone https://github.com/Eyadalmiman/finsim/tree/main
 cd FinSim
 ```
 
