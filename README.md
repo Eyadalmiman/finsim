@@ -65,13 +65,11 @@ open FinSim.xcodeproj
 # select an iPhone simulator and press ⌘R
 Or from the command line:
 
-```python
-def hello_world():
-    print("Hello, World!")
-```
-
+```xcode
 xcodebuild -project FinSim.xcodeproj -scheme FinSim \
   -sdk iphonesimulator -destination 'generic/platform=iOS Simulator' build
+```
+
 Localization
 FinSim is fully bilingual. Switch between English and العربية in Settings — the entire interface, including layout direction (RTL), rebuilds instantly.
 
