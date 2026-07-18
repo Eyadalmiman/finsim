@@ -1,3 +1,5 @@
+<div align = "center"> <img src = "Pictures/App logo finsim.png" width = "250" alt = "FinSim" />
+
 FinSim
 Learn money by living it — safely.
 A native iOS financial-literacy app that teaches you to bank, invest, and spot fraud inside a fully simulated environment, where every mistake is free.
