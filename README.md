@@ -1,4 +1,6 @@
-<div align = "center"> <img src = "Pictures/App logo finsim.png" width = "250" alt = "FinSim" />
+<div align = "center"> <img src = "Pictures/App logo finsim.png" width = "250" alt = "FinSim" /> </div>
+
+
 
 FinSim
 Learn money by living it — safely.
